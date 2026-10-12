@@ -35,12 +35,12 @@ I2C · SPI · PCB Design (KiCad, Altium Certified) · Embedded Systems
 
 ## 📂 Featured Projects
 
-### [RISC-V CPU Core](https://github.com/vishcall123/REPO-NAME)
+### [RISC-V CPU Core]([https://github.com/vishcall123/REPO-NAME](https://github.gatech.edu/vvarma45/RISC-V-CPU-Core-DD)
 `SystemVerilog` `Cadence Xcelium` `SimVision` `Git`
 
 Implemented a RISC-V processor in SystemVerilog, translating ISA specifications into RTL for instruction fetch, decode, register file, ALU, branching, and load/store operations. Built UVM-style verification with constrained-random testing, assertions, scoreboards, and reference models, reaching 98%+ code coverage.
 
-### [Traffic Signal Optimization with Neural Networks](https://github.com/vishcall123/REPO-NAME)
+### [Traffic Signal Optimization with Neural Networks]
 `Python` `PyTorch` `NumPy` `PyGame`
 
 Generated 400+ traffic scenarios with Python and PyGame to build a training dataset, then trained a supervised neural network (80% accuracy) that reduced intersection wait times by 8% in simulation compared to a standard timing-based approach.
