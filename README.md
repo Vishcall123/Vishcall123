@@ -40,7 +40,7 @@ I2C · SPI · PCB Design (KiCad, Altium Certified) · Embedded Systems
 
 Implemented a RISC-V processor in SystemVerilog, translating ISA specifications into RTL for instruction fetch, decode, register file, ALU, branching, and load/store operations. Built UVM-style verification with constrained-random testing, assertions, scoreboards, and reference models, reaching 98%+ code coverage.
 
-### Traffic Signal Optimization with Neural Networks
+### Traffic Signal Optimization with Neural Networks (https://github.com/Vishcall123/GoDrive-Traffic-Solutions-AI)
 `Python` `PyTorch` `NumPy` `PyGame`
 
 Generated 400+ traffic scenarios with Python and PyGame to build a training dataset, then trained a supervised neural network (80% accuracy) that reduced intersection wait times by 8% in simulation compared to a standard timing-based approach.
